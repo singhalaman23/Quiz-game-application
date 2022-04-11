@@ -1,0 +1,80 @@
+
+Question Number : 1
+Question Category : Literature
+Correct Answer  : A) Lord Alfred Tennyson
+Your Answer     : A) Lord Alfred Tennyson
+ Marks Awarded = 5 
+
+-----------------------------------------------------------------------------
+
+Question Number : 2
+Question Category : Football
+Correct Answer  : C) Miroslave Klose
+Your Answer     : A) Jurgen Klinsmann
+Marks Awarded = 0 
+
+-----------------------------------------------------------------------------
+
+Question Number : 3
+Question Category : Biology
+Correct Answer  : D) AB negative
+Your Answer     : A) O negative
+Marks Awarded = 0 
+
+-----------------------------------------------------------------------------
+
+Question Number : 4
+Question Category : Political Leaders
+Correct Answer  : A) Dr. B.R. Ambedkar
+Your Answer     : A) Dr. B.R. Ambedkar
+ Marks Awarded = 5 
+
+-----------------------------------------------------------------------------
+
+Question Number : 5
+Question Category : Country Capitals
+Correct Answer  : D) Dushanbe
+Your Answer     : A) Moscow
+Marks Awarded = 0 
+
+-----------------------------------------------------------------------------
+
+Question Number : 6
+Question Category : Animals
+Correct Answer  : B) Goat
+Your Answer     : A) Sheep
+Marks Awarded = 0 
+
+-----------------------------------------------------------------------------
+
+Question Number : 7
+Question Category : Inventions
+Correct Answer  : D) All of the above
+Your Answer     : A) Incandescent lamp
+Marks Awarded = 0 
+
+-----------------------------------------------------------------------------
+
+Question Number : 8
+Question Category : Computers
+Correct Answer  : C) Microsoft Office XP
+Your Answer     : A) Windows 98
+Marks Awarded = 0 
+
+-----------------------------------------------------------------------------
+
+Question Number : 9
+Question Category : Chemistry
+Correct Answer  : B) Vulcanization of Rubber
+Your Answer     : A) Experiments on Rubber Plants
+Marks Awarded = 0 
+
+-----------------------------------------------------------------------------
+
+Question Number : 10
+Question Category : Days and Years
+Correct Answer  : C) 1st May
+Your Answer     : A) 15th April
+Marks Awarded = 0 
+
+-----------------------------------------------------------------------------
